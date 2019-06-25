@@ -1,4 +1,5 @@
-﻿using Ordering.Domain.SeedWork;
+﻿using Ordering.Domain.Exceptions;
+using Ordering.Domain.SeedWork;
 using System;
 using System.Collections.Generic;
 using System.Text;
